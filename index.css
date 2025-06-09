@@ -623,6 +623,12 @@ body {
   color: #808080;
 }
 
+.no_copyright{
+  text-align: center;
+  padding: 20px;
+  font-size: 14px;
+}
+
 /* Responsive Footer */
 @media (max-width: 768px) {
   .footer {
